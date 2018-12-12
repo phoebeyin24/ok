@@ -1,1 +1,6 @@
-
+{
+  name:"phoebe",
+  age:20,
+  school:"NYU",
+  hobby:"bubbletea" 
+}
